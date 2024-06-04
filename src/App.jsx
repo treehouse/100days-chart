@@ -6,37 +6,37 @@ const App = () => {
     {
       id: 0,
       day: "monday",
-      value: 10,
+      value: 0,
     },
     {
       id: 1,
       day: "tuesday",
-      value: 20,
+      value: 0,
     },
     {
       id: 2,
       day: "wednesday",
-      value: 30,
+      value: 0,
     },
     {
       id: 3,
       day: "thursday",
-      value: 40,
+      value: 0,
     },
     {
       id: 4,
       day: "friday",
-      value: 50,
+      value: 0,
     },
     {
       id: 5,
       day: "saturday",
-      value: 60,
+      value: 0,
     },
     {
       id: 6,
       day: "sunday",
-      value: 70,
+      value: 0,
     },
   ]);
   return (
